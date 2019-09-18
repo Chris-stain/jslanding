@@ -1,7 +1,7 @@
 # jslanding
 A Responsive landing page
 
-![](jslanding.gif)
+![](jslanding2.gif)
 
 
 
